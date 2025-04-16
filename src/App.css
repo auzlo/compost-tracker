@@ -92,3 +92,19 @@ body, html, #root {
   font-size: 0.85rem;
   cursor: pointer;
 }
+
+.share-banner {
+  margin-top: 3rem;
+  padding: 1rem 1.5rem;
+  background-color: rgba(255, 255, 255, 0.85);
+  border-radius: 12px;
+  font-size: 1rem;
+  text-align: center;
+  color: #2c3e50;
+  max-width: 350px;
+  width: 100%;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

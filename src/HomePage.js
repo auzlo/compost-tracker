@@ -27,6 +27,12 @@ function HomePage() {
           <button>Resources</button>
           <button onClick={() => navigate('/about')}>About</button>
         </div>
+
+        <div className="share-banner">
+            💬 Know a building that composts (or doesn’t)?  
+            <strong>Share this app with friends and neighbors!</strong>
+        </div>
+
       </div>
     </div>
   );
